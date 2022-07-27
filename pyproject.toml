@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "json-to-oas-yaml"
+version = "0.1.0"
+description = ""
+authors = ["hrfmmr <i@hrfmmr.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+PyYAML = "^6.0"
